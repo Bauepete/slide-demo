@@ -33,4 +33,4 @@ Opening our Informatics to International Students
 * Applied Mathematics is only in German
 [.column]
 
-image::img.png[]
+* is it a multicolumn topic?
