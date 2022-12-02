@@ -10,7 +10,22 @@ Opening our Informatics to International Students
 * They come with their families
 * International schools are needed
 * Number of international schools in Linz are limited
+* One concrete application of an international student
 
 == International Schools in Linz
 * LISA - Linz International School Auhof
 * Anton Bruckner International School
+
+== Implementation of CSI
+* Informatics
+* School-leaving and diploma certificate
+
+=== Informatics
+* Same curriculum
+* 100 % English lessons
+* 6 hours of German lessons
+
+=== School-Leaving and Diploma Certificate
+* Standardized part must be done
+* "Fachtheorie" to be prepared bilingually
+* "AM" is only in German
