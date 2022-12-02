@@ -32,4 +32,5 @@ Opening our Informatics to International Students
 * "Fachtheorie" to be prepared bilingually
 * Applied Mathematics is only in German
 [.column]
+
 image::img.png[]
