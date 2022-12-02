@@ -25,7 +25,11 @@ Opening our Informatics to International Students
 * 100 % English lessons
 * 6 hours of German lessons
 
+[.columns]
 === School-Leaving and Diploma Certificate
+[.column]
 * Standardized part must be done
 * "Fachtheorie" to be prepared bilingually
-* "AM" is only in German
+* Applied Mathematics is only in German
+[.column]
+image::img.png[]
