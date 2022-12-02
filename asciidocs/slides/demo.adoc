@@ -1,6 +1,16 @@
-= My Slide
+= CSI -- Computer Science International HTL Leonding
 ifndef::imagesdir[:imagesdir: ../images]
 
 image::img.png[]
 
-Testing filter by changing documentation file
+Opening our Informatics to International Students
+
+== Current Situation
+* Large companies hire international employees
+* They come with their families
+* International schools are needed
+* Number of international schools in Linz are limited
+
+== International Schools in Linz
+* LISA - Linz International School Auhof
+* Anton Bruckner International School
